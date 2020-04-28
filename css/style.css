@@ -1,0 +1,14 @@
+.login-image{
+    background: url(../img/login-bg.jpg);
+    height: 100vh;
+    background-size: cover;
+}
+button{
+    background-color: orangered;
+    border-color: orangered;
+    color: white;
+    font-family: 'Work Sans', sans-serif;
+    font-size: 30px;
+    height: 40%;
+    width: 70%;
+}
